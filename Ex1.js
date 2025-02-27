@@ -1,3 +1,5 @@
+/*Exercício 2 7DaysOfCode - JavaScript*/
+
 let numeroUm = 1;
 let stringUm = "1";
 let numeroTrinta = 30;
