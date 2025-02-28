@@ -2,7 +2,6 @@
 
 Este repositório contém desafios diários propostos pelo **7DaysOfCode**, um programa que oferece uma semana de desafios de programação para aprimorar habilidades em diferentes linguagens e tecnologias.
 
-![Print](https://github.com/user-attachments/assets/9026d230-1eed-4111-898f-7e9b792efcbc)
 
 ## Tecnologias Utilizadas
 
