@@ -7,7 +7,6 @@ Este repositório contém desafios diários propostos pelo **7DaysOfCode**, um p
 
 - **JavaScript** - Lógica de programação e manipulação do DOM
 - **HTML** - Estrutura das páginas
-- **CSS** - Estilização dos elementos
 
 ## Funcionalidades
 
@@ -55,7 +54,7 @@ Se quiser contribuir para o projeto, fique à vontade para fazer um **fork** e a
 
 ## Licença 📜
 
-Este projeto é de uso livre para estudos e aprimoramento de habilidades em desenvolvimento web.
+Este projeto é de uso livre para estudos e aprimoramento de habilidades em desenvolvimento web e algoritmos.
 
 ---
 
